@@ -1,0 +1,26 @@
+.all{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.all-categories{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    border: 1px solid;
+    border-radius: 20px;
+    width: 164px;
+    height: 188px;
+    margin: 0 auto;
+}
+.list-cat{
+    border: 1px solid;
+    margin-top: 8px;
+}
+li{
+    list-style: none;
+}
+h2{
+    margin: 0 auto;
+    padding-left: 34px;
+}
